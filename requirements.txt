@@ -4,5 +4,4 @@ seaborn==0.8.1
 pandas
 tweepy 
 nltk
-re
 stopwords
